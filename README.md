@@ -144,6 +144,3 @@ Best Parameters: {'knn__n_neighbors': 5}
 * Visualize performance metrics
 * Deploy model using Flask or FastAPI
 
----
-t description
-* Resume bullet points
